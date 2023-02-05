@@ -1,0 +1,113 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img {
+    width: 100px;
+}
+
+
+#footer{
+    background-image: url("images/city.jpg");
+    padding:10px 0 40px;
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#main {
+    width:100px;
+}
+
+#title {
+    text-shadow: 0px 0px 4px rgb(68, 128, 196);
+    color:aliceblue;
+    text-align: center;
+}
+
+#encouragement {
+    padding: 6px 12px;
+    background:rgb(123, 192, 167);
+    margin: 5px 10px;
+    font-family: inherit;
+    color:aliceblue;
+    font-weight: 600;
+    text-align: center;
+    border-radius: 5px;
+    font-size:medium;
+    width: 400px;
+    height: 40px;
+    left: 182px;
+    top: 177px;
+}
+
+.section2 {
+    background-color:  #F1FAEE;
+    text-align: center;
+    height: 300px;
+}
+
+.activities {
+    display:flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.beach {
+    border-radius: 80%;
+}
+
+#about1 {
+    width: 198px;
+    height: 55px;
+    left: 34px;
+    top: 285px;
+}
+
+.hiking {
+    border-radius: 80%;
+}
+
+#about2 {
+    width: 198px;
+    height: 54px;
+    left: 265px;
+    top: 286px;
+}
+
+.spa {
+    border-radius: 80%;
+}
+
+#about3 {
+    width: 197px;
+    height: 38px;
+    left: 488px;
+    top: 236px;
+}
+
+.picture {
+    width: 170px;
+}
+
+.card {
+    width:350px;
+    margin: 20px auto;
+    padding: 20px;
+    display:flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #74A1AA;
+    color: #000000;
+    border-bottom: 6px solid #FFA799;
+    border-radius: 8px;
+}
+
+#paragraph {
+    font-style: italic;
+    width: 150px;
+}
+
