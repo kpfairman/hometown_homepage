@@ -10,7 +10,7 @@ img {
 
 
 #footer{
-    background-image: url("images/city.jpg");
+    background-image: url("city.jpg");
     padding:10px 0 40px;
     background-size: cover;
     display: flex;
